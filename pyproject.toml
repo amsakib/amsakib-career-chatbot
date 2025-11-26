@@ -1,0 +1,12 @@
+[project]
+name = "amsakib-career-chatbot"
+version = "0.1.0"
+description = "Chatbot to know the career progression of Asir Mosaddek Sakib"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.0.1",
+    "openai>=2.8.1",
+    "pypdf>=6.4.0",
+    "python-dotenv>=1.2.1",
+]
